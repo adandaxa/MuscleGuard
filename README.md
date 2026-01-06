@@ -10,7 +10,6 @@ Streamlit demo app for the MuscleGuard training feedback concept. It shows produ
 ## macOS: run the app
 1) Open Terminal  
 2) Go to the project folder  
-`cd /Users/adandaxa/Downloads/MuscleGuard`
 3) Create and activate a virtual environment (recommended)  
 `python3 -m venv .venv`  
 `source .venv/bin/activate`
